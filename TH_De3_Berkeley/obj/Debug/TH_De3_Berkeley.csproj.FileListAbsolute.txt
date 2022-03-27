@@ -1,0 +1,6 @@
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_De3_Berkeley\bin\Debug\TH_De3_Berkeley.exe.config
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_De3_Berkeley\bin\Debug\TH_De3_Berkeley.exe
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_De3_Berkeley\bin\Debug\TH_De3_Berkeley.pdb
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_De3_Berkeley\obj\Debug\TH_De3_Berkeley.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_De3_Berkeley\obj\Debug\TH_De3_Berkeley.exe
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_De3_Berkeley\obj\Debug\TH_De3_Berkeley.pdb

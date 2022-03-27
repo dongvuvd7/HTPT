@@ -1,0 +1,7 @@
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_GTTrungBinh\bin\Debug\TH_GTTrungBinh.exe.config
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_GTTrungBinh\bin\Debug\TH_GTTrungBinh.exe
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_GTTrungBinh\bin\Debug\TH_GTTrungBinh.pdb
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_GTTrungBinh\obj\Debug\TH_GTTrungBinh.csproj.AssemblyReference.cache
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_GTTrungBinh\obj\Debug\TH_GTTrungBinh.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_GTTrungBinh\obj\Debug\TH_GTTrungBinh.exe
+D:\TaiLieu\Kì 2 năm 4\Hệ thống phân tán\TH1_Sample\TH_GTTrungBinh\obj\Debug\TH_GTTrungBinh.pdb
