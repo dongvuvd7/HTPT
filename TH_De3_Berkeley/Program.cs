@@ -65,7 +65,8 @@ namespace TH_De3_Berkeley
             {
                 total += (int)((time.Ticks - master.Ticks) / 10000); //tổng độ chênh
             }
-            return (int)Math.Round(total / (double)oldTimes.Length); //Chú ý làm tròn theo ý thầy
+            int doLech = (int)Math.Round(total * 1.0 / oldTimes.Length, 0, MidpointRounding.AwayFromZero); //Chú ý làm tròn theo ý thầy
+            return doLech;
         }
     }
 }
